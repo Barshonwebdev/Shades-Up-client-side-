@@ -60,7 +60,7 @@ const useFirebase = () => {
               }).catch((error) => {
               });
               history.replace('/');
-              window.location.reload();
+              
           })
           .catch((error) => {
              
