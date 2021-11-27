@@ -4,7 +4,7 @@ Shades Up!
 
 • More than 10 exclusive products for our users
 
-• Our site ensures that every users are authenticated and valid, ensuring better services
+• Complete Niche website with user authentication system
 
 • We show our clients' reviews in our site to show our credibilities to you.
 
@@ -15,6 +15,12 @@ Shades Up!
 • Dashboard system for users.
 
 • Review system for users.
+
+• Front-end & Back-end functionalities added
+
+• Separate functionalities for admins and users
+
+
 
 Live site link : https://shades-up.web.app/  
 
